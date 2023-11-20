@@ -7,15 +7,6 @@
  
  <img src="https://user-images.githubusercontent.com/52722526/202879329-a30d1bab-fa09-41aa-9371-a4907f4519fb.png" width="650px">
  
-## Getting Started in .NET MAUI ##
-
-* [Install .NET MAUI](https://dot.net/maui)
-* [.NET MAUI Documentation](https://docs.microsoft.com/dotnet/maui)
-* [.NET MAUI Samples](https://github.com/dotnet/maui-samples)
-* [Development Guide](./.github/DEVELOPMENT.md)
- 
- ![maui-01-overview](https://user-images.githubusercontent.com/52722526/202878978-aa019b8a-6811-4df8-9014-125ea64f6faf.png)
- 
  ## Architecture
  
  .NET MAUI unifies Android, iOS, macOS, and Windows APIs into a single API that allows a write-once run-anywhere developer experience, while additionally providing deep access to every aspect of each native platform.
